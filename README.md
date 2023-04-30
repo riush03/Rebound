@@ -1,7 +1,7 @@
-# `BIG-AGI` 🤖💬
+# `Rebound` 🤖💬
 
-Welcome to `big-AGI`, FKA `nextjs-chatgpt-app`. 👋🎉
-Personal AGI App, powered by `OpenAI GPT-4` and beyond. Designed for smart humans and super-heroes,
+Welcome to `Rebound`, FKA `nextjs-chatgpt-app`. 👋🎉
+Personal LLM Web Chat bot, powered by `OpenAI GPT-4` and beyond. Designed for smart humans and super-heroes,
 this responsive web app comes with Personas, Drawing, Code Execution, PDF imports, Voice support,
 data Rendering, AGI functions, chats and more. Show your friends some `#big-AGI-energy` 🚀
 
@@ -23,59 +23,10 @@ Or fork & run on Vercel
 - Many more updates & integrations: ElevenLabs, Helicone, Paste.gg, Prodia
 - Coming up: automatic-AGI reasoning
 
-## Support 🙌
 
-[//]: # ([![Official Discord]&#40;https://img.shields.io/discord/1098796266906980422?label=discord&logo=discord&logoColor=%23fff&style=for-the-badge&#41;]&#40;https://discord.gg/MkH4qj2Jp9&#41;)
-[![Official Discord](https://discordapp.com/api/guilds/1098796266906980422/widget.png?style=banner2)](https://discord.gg/MkH4qj2Jp9)
-
-* Enjoy the hosted open-source app on [big-AGI.com](https://get.big-agi.com)
-* [Chat with us](https://discord.gg/MkH4qj2Jp9). We just started!
-* Deploy your [fork](https://github.com/enricoros/big-agi/fork) and surprise your friends with big-GPT
-  energy!
-* send PRs! ...
-  🎭[Editing Personas](https://github.com/enricoros/big-agi/issues/35),
-  🧩[Reasoning Systems](https://github.com/enricoros/big-agi/issues/36),
-  🌐[Community Templates](https://github.com/enricoros/big-agi/issues/35),
-  and [your big-IDEAs](https://github.com/enricoros/big-agi/issues/new?labels=RFC&body=Describe+the+idea)
 
 <br/>
 
-## Latest Drops 🚀
-
-#### 🚨 April: more #big-agi-energy
-
-- 🎉 **[Google Search](docs/pixels/feature_react_google.png)** active in ReAct - add your keys to Settings > Google Search
-- 🎉 **[Reason+Act](docs/pixels/feature_react_turn_on.png)** preview feature - activate with 2-taps on the 'Chat' button
-- 🎉 **[Image Generation](docs/pixels/feature_imagine_command.png)** using Prodia (BYO Keys) - /imagine - or menu option
-- 🎉 **[Voice Synthesis](docs/pixels/feature_voice_1.png)** 📣 with ElevenLabs, including selection of custom voices
-- 🎉 **[Precise Token Counter](docs/pixels/feature_token_counter.png)** 📈 extra-useful to pack the context window
-- 🎉 **[Install Mobile APP](docs/pixels/feature_pwa.png)** 📲 looks like native (@harlanlewis)
-- 🎉 **[UI language](docs/pixels/feature_language.png)** with auto-detect, and future app language! (@tbodyston)
-- 🎉 **PDF Summarization** 🧩🤯 - ask questions to a PDF! (@fredliubojin)
-- 🎉 **Code Execution: [Codepen](https://codepen.io/)/[Replit](https://replit.com/)** 💻 (@harlanlewis)
-- 🎉 **[SVG Drawing](docs/pixels/feature_svg_drawing.png)** - draw with AI 🎨
-- 🎉 Chats: multiple chats, AI titles, Import/Export, Selection mode
-- 🎉 Rendering: Markdown, SVG, improved Code blocks
-- 🎉 Integrations: OpenAI organization ID
-- 🎉 [Cloudflare deployment instructions](docs/deploy-cloudflare.md),
-  [awesome-agi](https://github.com/enricoros/awesome-agi)
-- 🎉 [Typing Avatars](docs/pixels/gif_typing_040123.gif) ⌨️
-  <!-- p><a href="docs/pixels/gif_typing_040123.gif"><img src="docs/pixels/gif_typing_040123.gif" width='700' alt="New Typing Avatars"/></a></p -->
-
-#### March: first release
-
-- 🎉 **[AI Personas](docs/pixels/feature_purpose_two.png)** - including Code, Science, Corporate, and Chat 🎭
-- 🎉 **Privacy**: user-owned API keys 🔑 and localStorage 🛡️
-- 🎉 **Context** - Attach or [Drag & Drop files](docs/pixels/feature_drop_target.png) to add them to the prompt 📁
-- 🎉 **Syntax highlighting** - for multiple languages 🌈
-- 🎉 **Code Execution: Sandpack
-  ** - [now on branch]((https://github.com/enricoros/big-agi/commit/f678a0d463d5e9cf0733f577e11bd612b7902d89)) `variant-code-execution`
-- 🎉 Chat with GPT-4 and 3.5 Turbo 🧠💨
-- 🎉 Real-time streaming of AI responses ⚡
-- 🎉 **Voice Input** 🎙️ - works great on Chrome / Windows
-- 🎉 Integration: **[Paste.gg](docs/pixels/feature_paste_gg.png)** integration for chat sharing 📥
-- 🎉 Integration: **[Helicone](https://www.helicone.ai/)** integration for API observability 📊
-- 🌙 Dark model - Wide mode ⛶
 
 <br/>
 
@@ -84,7 +35,7 @@ Or fork & run on Vercel
 Because the official Chat ___lacks important features___, is ___more limited than the api___, at times
 ___slow or unavailable___, and you cannot deploy it yourself, remix it, add features, or share it with
 your friends.
-Our users report that ___big-AGI is faster___, ___more reliable___, and ___features rich___
+Our users report that ___Rebound is faster___, ___more reliable___, and ___features rich___
 with features that matter to them.
 
 ![Much features, so fun](docs/pixels/big-AGI-compo2b.png)
@@ -98,7 +49,7 @@ with features that matter to them.
 Clone this repo, install the dependencies, and run the development server:
 
 ```bash
-git clone https://github.com/enricoros/big-agi.git
+git clone https://github.com/riush03/Rebound.git
 cd big-agi
 npm install
 npm run dev
@@ -117,11 +68,5 @@ Now the app should be running on `http://localhost:3000`
 
 This project is licensed under the MIT License.
 
-[![GitHub stars](https://img.shields.io/github/stars/enricoros/big-agi)](https://github.com/enricoros/big-agi/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/enricoros/big-agi)](https://github.com/enricoros/big-agi/network)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/enricoros/big-agi)](https://github.com/enricoros/big-agi/pulls)
-[![License](https://img.shields.io/github/license/enricoros/big-agi)](https://github.com/enricoros/big-agi/LICENSE)
-
-[//]: # ([![GitHub issues]&#40;https://img.shields.io/github/issues/enricoros/big-agi&#41;]&#40;https://github.com/enricoros/big-agi/issues&#41;)
 
 Made with 💙
